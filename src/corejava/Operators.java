@@ -14,7 +14,7 @@ public class Operators {
 		System.out.println(a/b);
 		System.out.println(a%b);
 		
-		// Comparission Operators
+		// Comparison Operators
 		System.out.println(a>b);
 		System.out.println(a<b);
 		System.out.println(a!=b);

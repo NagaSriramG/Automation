@@ -5,7 +5,7 @@ package oops;
     	 System.out.println("Animal is eating");
      }
    }
-     class Cat extends Animal {
+     class Dog extends Animal {
     	 void bark() {
     		 System.out.println("Dog is barking");
     	 }
@@ -15,12 +15,10 @@ package oops;
     
 	public static void main(String[] args) {
 		
-		Cat obj=new Cat();
+		Dog obj=new Dog();
 		obj.eat();
 		obj.bark();
 		
-
 	}
-
 }
    
